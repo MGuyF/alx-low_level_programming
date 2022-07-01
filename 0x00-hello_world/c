@@ -730,10 +730,9 @@ extern int __overflow (FILE *, int);
 
 
 
-
-# 9 "main.c"
+# 8 "main.c"
 int main (void)
 {
-
+ printf("Hello,World\n");
  return (0);
 }
