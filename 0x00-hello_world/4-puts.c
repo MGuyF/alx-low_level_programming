@@ -10,8 +10,6 @@
  */
 int main(void)/* Main function returns 0 */
 {
-		char Declaration[100] = "\"Programming is like building a multilingual puzzle\n";
-
-		puts(Declaration);
+		puts("\"Programming is like building a multilingual puzzle\n");
 		return (0);
 }
